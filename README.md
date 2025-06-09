@@ -3,10 +3,10 @@
 This Power BI project visualizes and analyzes the impact of COVID-19 across Indian states. The dashboard provides interactive insights including total cases, recoveries, death rates, and trends over time, allowing users to monitor the situation effectively.
 
 ---
+### You can view the live Power BI report by clicking the link below:
 
-You can view the live Power BI report by clicking the link below:
+🔗 [View Live Report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWRjZTc1OWUtZGJlMS00ZDBiLTk0NGYtNTFiYjI2Yzk4ZGQ0IiwidCI6ImM2NDk4YWJmLWUyOTYtNDkzNy04YzJhLTJmYTlhZDM3YzFjYSJ9)
 
-🔗 [View Live Report on Power BI]([https://app.powerbi.com/view?r=eyJrIjoiMmMyNzFiNTYtMWNlMi00Zjk3LWE1M2QtZjgyOGU3MGQ5YTA3IiwidCI6ImM2NDk4YWJmLWUyOTYtNDkzNy04YzJhLTJmYTlhZDM3YzFjYSJ9](https://app.powerbi.com/view?r=eyJrIjoiMWRjZTc1OWUtZGJlMS00ZDBiLTk0NGYtNTFiYjI2Yzk4ZGQ0IiwidCI6ImM2NDk4YWJmLWUyOTYtNDkzNy04YzJhLTJmYTlhZDM3YzFjYSJ9))
 
 ## 📊 Project Summary
 
